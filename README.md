@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/40601891/148711201-c55d759f-2c4d-413f-
 
 Off Campus Orientation Soph Team
 ---------
-![oc-intramurals](https://user-images.githubusercontent.com/40601891/148711727-418c23dd-8651-41d3-9eeb-f70e618fd379.png)
+![oc-intramurals](https://user-images.githubusercontent.com/40601891/148711727-418c23dd-8651-41d3-9eeb-f70e618fd379.png) 
 ![OCSHOPS-3D](https://user-images.githubusercontent.com/40601891/148711762-841fccd8-0d04-49eb-be30-7d575a667c33.png)
 ![oc-tester-sun](https://user-images.githubusercontent.com/40601891/148711770-84d3004d-7fb7-4ddb-b3a1-6135d6f38776.png)
 ![due-tonight-clc-2](https://user-images.githubusercontent.com/40601891/148711859-a51ee8c7-e516-4208-96e5-debd15a07740.png)
